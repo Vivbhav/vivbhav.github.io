@@ -1,5 +1,40 @@
 @charset "utf-8";
 
+.intro {
+	position: relative;
+	clear: both;
+	margin: 0;
+	padding: 10px;
+}
+
+.news {
+	position: relative;
+	clear: both;
+	margin: 0;
+	padding: 10px;
+}
+
+.publications {
+	position: relative;
+	clear: both;
+	margin: 0;
+	padding: 10px;
+}
+
+.projects {
+	position: relative;
+	clear: both;
+	margin: 0;
+	padding: 10px;
+}
+
+.internships {
+	position: relative;
+	clear: both;
+	margin: 0;
+	padding: 10px;
+}
+
 .top {
 	background-color: #000000;
 	text-align: center;
@@ -11,14 +46,6 @@
 .content {
 	float: left;
 	width: 70%;
-}
-
-.rotate90 {
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
 }
 
 .photo {
