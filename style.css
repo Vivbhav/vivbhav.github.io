@@ -1,70 +1,7 @@
-@charset "utf-8";
-
-.intro {
-	position: relative;
-	clear: both;
-	margin: 0;
-	padding: 10px;
-}
-
-.news {
-	position: relative;
-	clear: both;
-	margin: 0;
-	padding: 10px;
-}
-
-.publications {
-	position: relative;
-	clear: both;
-	margin: 0;
-	padding: 10px;
-}
-
-.projects {
-	position: relative;
-	clear: both;
-	margin: 0;
-	padding: 10px;
-}
-
-.internships {
-	position: relative;
-	clear: both;
-	margin: 0;
-	padding: 10px;
-}
-
-.top {
-	background-color: #000000;
-	text-align: center;
-	font-size: 16px;
-	float: left;
-		
-}
-
-.content {
-	float: left;
-	width: 70%;
-}
-
-.photo {
-	float: right;
-	width: 30%;
-}
-
-.toprow:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-
-#header #header {
-	font-family: andada;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 42px;
-	text-align: center;
-}
-.edf {
+img {
+	border-radius: 50%;
+	border-width: 5px;
+	border-color: #000000;
+	border-top: medium;
+	margin-top: 20px;
 }
