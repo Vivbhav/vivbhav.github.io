@@ -4,4 +4,24 @@ img {
 	border-color: #000000;
 	border-top: medium;
 	margin-top: 20px;
+}center b font {
+    font-family: berkshire-swash;
+    font-style: normal;
+    font-weight: 400;
+}
+.bodyclass {
+	background-image:linear-gradient(#493b87, #cec4f9)
+}
+
+.content_font {
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+	
+}
+
+.content_brush {
+	font-family: brush-script-std;
+	font-style: normal;
+	font-weight: 400;
 }
